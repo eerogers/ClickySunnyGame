@@ -1,6 +1,10 @@
 import React from "react";
-import giphyContainer from "./components/picbox.js";
+import MovingPicture from "./components/MovingPicture";
+import Header from "./components/Header";
 
-const App = () => <giphyContainer />;
+const App = () => 
+    <div>
+        <Header />      
+    </div>;
 
 export default App;

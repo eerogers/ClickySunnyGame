@@ -1,0 +1,57 @@
+.box {
+    background-color: pink;
+    color: white;
+    position: relative;
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 40px;
+}
+#zero {
+    background-image: url('dee.jpg');
+    background-size: 180px;
+}
+#one {
+    background-image: url('dayman.jpg');
+    background-size: 200px;
+} 
+#two {
+    background-image: url('artemis.png');
+    background-size: 200px;
+}
+#three {
+    background-image: url('frank.jpg');
+    background-size: 220px;
+}
+#four {
+    background-image: url('dennis.jpg');
+    background-size: 250px;
+}
+#five {
+    background-image: url('charlie.jpg');
+    background-size: 250px;
+}
+#six {
+    background-image: url('nightman.jpg');
+    background-size: 250px;
+}
+#seven {
+    background-image: url('mac.jpg');
+    background-size: 230px;
+}
+#eight {
+    background-image: url('waitress.jpg');
+    background-size: 200px;
+}
+#nine {
+    background-image: url('charlie2.jpg');
+    background-size: 230px;
+} 
+#ten {
+    background-image: url('frank2.jpg');
+    background-size: 250px;
+}
+#eleven {
+    background-image: url('mac2.png');
+    background-size: 250px;
+}

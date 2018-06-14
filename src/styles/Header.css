@@ -1,0 +1,10 @@
+#banner {
+    background-color: black;
+    height: 100px;
+}
+#words, #score, #alert {
+    color: white;
+    padding: 38px;
+    font-size: 20px;
+    float: left;
+}
